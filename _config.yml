@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en"
@@ -16,7 +16,6 @@ description              : "Sam's personal and academic website."
 url                      : "https://smccau.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "smccau/smccau.github.io"
-minimal_mistakes_skin    : "dark"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -253,4 +252,4 @@ defaults:
       read_time: true
       comments: false
       share: true
-      related: true
+      related: false
