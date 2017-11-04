@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: https://smccau.github.io/
 ---
 
 Hello.
