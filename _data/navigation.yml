@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Home"
-    url: https://smccau.github.io
-#  - title: "About"
-#    url: /about/
-#  - title: "Research"
-#    url: /research/
-#  - title: "Resources"
-#  	url: /resources/
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Resources"
+    url: /resources/
