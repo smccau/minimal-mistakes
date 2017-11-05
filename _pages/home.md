@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink: https://smccau.github.io
 
 header:
   overlay_color: "#5e616c"
