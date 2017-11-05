@@ -6,3 +6,14 @@ main:
     url: /research/
   - title: "Resources"
     url: /resources/
+
+docs:
+  - title: "Phylogenetics"
+  - title: "Plant Sexual Traits"
+  - title: "Biogeography"
+  - title: "Diversification"
+  
+docs_2:
+  - title: "Ancestral State Reconstruction"
+  - title: "SSE Models"
+  - title: "Diversification Rate Estimation"

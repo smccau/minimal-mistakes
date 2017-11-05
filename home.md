@@ -4,16 +4,14 @@ permalink: /
 author_profile: true
 
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/blue-green.jpg
-  caption: 
-excerpt: 'Plant phylogenetics and evolution at the University of Idaho'
+excerpt: 'Plant phylogeneticist at the University of Idaho'
 
 feature_row:
-  - image_path: /assets/images/green-stone.jpg
+  - image_path: /assets/images/blue-green-mix.jpg
     alt: "about"
     title: "About Me"
-    excerpt: "Find out about some basics about myself."
+    excerpt: "Find out about some basics about myself, including my academic history, and hobbies."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
@@ -24,7 +22,7 @@ feature_row:
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/stone-brown.jpg
+  - image_path: /assets/images/yellow.jpg
     alt: "resources"
     title: "Resources"
     excerpt: "A compilation of comparative methods -- without the fluff."

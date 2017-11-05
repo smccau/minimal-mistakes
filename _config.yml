@@ -101,7 +101,6 @@ author:
   twitter          : "@samccau"
   youtube          : 
 
-
 # Reading Files
 include:
   - .htaccess
