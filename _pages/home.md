@@ -1,6 +1,7 @@
 ---
 layout: single
-permalink: https://smccau.github.io
+permalink: /
+---
 
 header:
   overlay_color: "#5e616c"
@@ -30,7 +31,6 @@ feature_row:
     url: "/resources"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-
 ---
 
 {% include feature_row id="intro" type="center" %}
