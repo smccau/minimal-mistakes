@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 
 header:
-  overlay_image: /assets/images/blue-green.jpg
+  overlay_image: /assets/images/green.jpg
 excerpt: 'Plant phylogeneticist at the University of Idaho'
 
 feature_row:
@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/yellow-orange.jpg
     alt: "research"
-    title: "Research Interests"
+    title: "Research"
     excerpt: "Here are the details about my research in plant systematics, phylogenetics, and evolution."
     url: "/research/"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/yellow.jpg
     alt: "resources"
     title: "Resources"
-    excerpt: "A compilation of comparative methods -- without the fluff."
+    excerpt: "A compilation of comparative methods -- without the fluff. For experts and plebs alike."
     url: "/resources"
     btn_class: "btn--primary"
     btn_label: "Learn More"
