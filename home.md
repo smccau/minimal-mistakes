@@ -8,7 +8,7 @@ header:
 excerpt: 'Plant phylogeneticist at the University of Idaho'
 
 feature_row:
-  - image_path: /assets/images/blue-green-mix.jpg
+  - image_path: /assets/images/blue-green.jpg
     alt: "about"
     title: "About Me"
     excerpt: "Find out about some basics about myself, including my academic history, and hobbies."

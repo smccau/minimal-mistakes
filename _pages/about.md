@@ -4,7 +4,7 @@ title: "Hey!"
 toc: true
 
 header:
-  overlay_image: /assets/images/blue-green-mix.jpg
+  overlay_image: /assets/images/blue-green.jpg
 ---
 
 I am Samuel McCauley, a first-year Ph.D. student in [the Tank Lab](http://davetank.github.io/tank-lab/), located in [the Department of Biological Sciences](https://www.uidaho.edu/sci/biology) at [the University of Idaho](https://www.uidaho.edu). I study phylogenetics and evolution in plants.
