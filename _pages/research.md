@@ -31,11 +31,27 @@ gallery2:
     alt: "placeholder image 5"
     title: "Thalictrum fendleri (wind pollinated male)"
 
+gallery3:
+  - url: /assets/images/lbjs.jpg
+    image_path: /assets/images/lbjs.jpg
+    alt: "placeholder image 6"
+    title: "Little brown jobs"
+  - url: /assets/images/asters.jpg
+    image_path: /assets/images/asters.jpg
+    alt: "placeholder image 7"
+    title: "Damned (mostly) yellow composites"
+
 header:
   overlay_image: /assets/images/yellow-orange.jpg
 ---
 
 On this page you will find a rather broad overview of my research interests -- just enough to get your feet wet and get a feel for what I think about every day when it comes to plants.  On the left is a collection of links to a more in-depth discussion of my research interests (_under construction electronically and mentally_).
+
+**TL;DR for below:**
+Meadow-rues are an ideal clade to study how plants evolve when they move to new areas.
+Meadow-rues show variation in biogeography and sexual traits -- both of which may correlate with the other.
+While biogeography and sexual trait evolution can inform each other, they may also interact to influence diversification.
+{: .notice--danger}
 
 ## Study System
 
@@ -86,6 +102,20 @@ Meadow-rues are special in their sexual traits, because within the genus are com
 {: .notice--warning}
 
 ### Diversification
+
+The world is full of little brown jobs and damned yellow composites (see figures below).  Why?  Why are certain groups of taxa more diverse than others?
+
+{% include gallery id="gallery3" caption="Little brown jobs and damned (mostly) yellow composites that are numerous and sometimes hard to tell apart." %}
+
+Diversification at its core is a push and pull between speciation (the formation of a new taxon) and extinction (the elimination of a taxon). Uncovering and describing why a clade diversified compared to others is a cornerstone in evolutionary biology.
+
+A major theoretical framework in diversification studies revolves around the notion that the evolution of a "key innovation" (i.e. a trait) can trigger a clade to diversify. Other aspects of this framework are "key synnovations" (i.e. evolution of and interaction between two or more traits) and "key confluences" (i.e. an interaction between a trait and the environment).
+
+Meadow-rues are an ideal system in which to study this theoretical framework.  Their geographical and sexual trait transitions from the ancestral condition, depending on the combination of those transitions, are test cases for studying these trait interactions that influence diversification.
+
+**Biogeography and evolution of sexual traits may cooperatively interact to diversify certain lineages within _Thalictrum_ through hypothesized envionmental and trait interactions.**
+{: .notice--warning}
+
 
 ---
 
