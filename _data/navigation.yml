@@ -9,11 +9,12 @@ main:
 
 docs:
   - title: "Phylogenetics"
-  - title: "Plant Sexual Traits"
   - title: "Biogeography"
+  - title: "Plant Sexual Traits"
   - title: "Diversification"
   
 docs_2:
   - title: "Ancestral State Reconstruction"
   - title: "SSE Models"
   - title: "Diversification Rate Estimation"
+  - title: "The Birth-Death Process"

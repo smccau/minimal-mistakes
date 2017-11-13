@@ -9,6 +9,6 @@ header:
   overlay_image: /assets/images/yellow.jpg  
 ---
 
-This is where I will describe comparative method resources.
+This is where I will describe comparative method resources (_under construction electronically and mentally_).
 
 ---
