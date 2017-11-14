@@ -55,7 +55,11 @@ While biogeography and sexual trait evolution can inform each other, they may al
 
 ## Study System
 
+<<<<<<< HEAD
 ### Meadow-rues
+=======
+### _Thalictrum_
+>>>>>>> parent of a57075c... Update for website presentation
 
 ![image-center](/assets/images/thalictrum_delavayi.jpg)
 {: .align-center}
@@ -116,5 +120,20 @@ Meadow-rues are an ideal system in which to study this theoretical framework.  T
 **Biogeography and evolution of sexual traits may cooperatively interact to diversify certain lineages within _Thalictrum_ through hypothesized envionmental and trait interactions.**
 {: .notice--warning}
 
+<<<<<<< HEAD
 ---
 
+=======
+
+---
+
+
+
+
+
+
+
+
+
+
+>>>>>>> parent of a57075c... Update for website presentation
