@@ -54,7 +54,6 @@ While biogeography and sexual trait evolution can inform each other, they may al
 {: .notice--danger}
 
 ## Study System
-
 ### Meadow-rues
 
 ![image-center](/assets/images/thalictrum_delavayi.jpg)
