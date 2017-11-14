@@ -45,6 +45,7 @@ header:
   overlay_image: /assets/images/yellow-orange.jpg
 ---
 
+## Welcome!
 On this page you will find a rather broad overview of my research interests -- just enough to get your feet wet and get a feel for what I think about every day when it comes to plants.  On the left is a collection of links to a more in-depth discussion of my research interests (_under construction electronically and mentally_).
 
 **TL;DR for below:**
