@@ -18,7 +18,7 @@ I graduated with a B.A. in Biology from [the College of Charleston Honors Colleg
 
 I am now a first-year Ph.D. student in the Tank lab at the University of Idaho.  Broadly, I am interested in how geographical movement and trait evolution influence each other, and synergistically drive diversification dynamics.  Read more in-depth about my research and study system in my [research interests](https://smccau.github.io/research/).
 
-Outside of academia, my hobbies include photography, reading, dumping hundreds of dollars into local coffee shops, and botanizing.  My current reading adventure is Robert Jordan's *The Wheel of Time* series (on book four of fourteen).  I also spend my freetime on [Twitch](https://twitch.tv/) (like video games? -- check this out).
+Outside of academia, my hobbies include photography, reading, local coffee shops, and botanizing.  My current reading adventure is Robert Jordan's *The Wheel of Time* series (on book four of fourteen).  I also spend my freetime on [Twitch](https://twitch.tv/) (like video games? -- check this out).
 
 ### Relevant Links
 
